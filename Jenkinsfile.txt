@@ -1,28 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@santooshv 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-santooshv
-/
-verity-devops
-forked from JeeKayPee/verity-devops
-0
-0134
- Code Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-verity-devops/reference/Jenkinsfile.txt
-@umangsaltuniv umangsaltuniv codecommit1.0
-7c3749c on Aug 26, 2019
-@umangagarwalit@umangsaltuniv
-104 lines (77 sloc)  2.18 KB
   
 pipeline {
     agent any
@@ -128,15 +103,3 @@ pipeline {
 		// *****ALL CODE TO BE ADDED ABOVE THIS COMMENT*****
     }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
